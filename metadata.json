@@ -1,0 +1,8 @@
+{
+  "name": "Absolute Cinema – Lia AI",
+  "description": "A professional AI-powered cinema direction platform for scriptwriting, character design, and ultra-realistic video generation using Veo and Gemini technology.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
